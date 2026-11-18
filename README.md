@@ -3,4 +3,4 @@ Investigación, diagnóstico y experimentación para instalar un sistema operati
 
 
 
-#Consejos.
+# Consejos
